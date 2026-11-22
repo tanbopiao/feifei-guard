@@ -1,0 +1,1 @@
+{ "name": "feifei-guard", "version": "0.1.0", "description": "朏朏 · 岗位模板包集合：规则库+弹药库+演习基线+企业接入清单", "type": "commonjs", "main": "check.js", "license": "Apache-2.0" }
